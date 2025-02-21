@@ -39,6 +39,10 @@ The goal of this app is to provide users with a collection of **live TV channels
 
 ---
 
+## Live link
+
+[View Here](https://live-tv24.netlify.app/)
+
 ## **Setup Instructions**
 
 ### 1. **Clone the Repository**
