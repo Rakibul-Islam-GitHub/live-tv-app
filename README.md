@@ -77,13 +77,20 @@ git clone https://github.com/Rakibul-Islam-GitHub/live-tv-app.git
     .env
     package.json
 
+<!-- [server repo](https://github.com/Rakibul-Islam-GitHub/live-tv-API) -->
+
 ---
+
+## Screenshot
+
+![Project Screenshot](./homepage.png)
+![Project Screenshot](./livetv.png)
 
 ## Useful resources
 
-[React - Doc](https://reactjs.org/)
-[React Router - Doc](https://reactrouter.com/web)
-[ExpressJs - Doc](https://expressjs.com/)
+- [React - Doc](https://reactjs.org/)
+- [React Router - Doc](https://reactrouter.com/web)
+- [ExpressJs - Doc](https://expressjs.com/)
 
 ---
 
