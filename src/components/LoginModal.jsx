@@ -23,12 +23,19 @@ const LoginModal = ({ show, onHide }) => {
           It is required because of stop spamming. If you face any issues,
           please
           <Link
-            className="fw-bold contact-btn"
+            className="fw-bold contact-btn fst-italic"
             target="_blank"
             to={`https://wa.me/${import.meta.env.VITE_CONTACT_NUMBER}`}
           >
             {" "}
-            contact me.
+            contact me
+            <img
+              className="ms-1"
+              src="whatsapp.png"
+              width={15}
+              height={15}
+              alt=""
+            />
           </Link>
         </p>
 
